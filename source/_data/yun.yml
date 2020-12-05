@@ -93,9 +93,9 @@ menu:
       path: ../categories/
       icon: icon-folder-2-line
 
-    - type: tags
+     - type: archives
       path: /archives/
-      icon: icon-price-tag-3-line
+      icon: icon-archive-line
     # - path: https://www.yunyoujun.cn
     #   icon: icon-cloud-line
     #   count: 你猜
