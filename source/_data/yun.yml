@@ -89,10 +89,10 @@ menu:
       path: /archives/
       icon: icon-archive-line
     - type: categories
-      path: /categories/
+      path: https://github.com/rabbitcat04261028/rabbitcat04261028.github.io/tree/master/categories/
       icon: icon-folder-2-line
     - type: tags
-      path: /tags/
+      path: https://github.com/rabbitcat04261028/rabbitcat04261028.github.io/tree/master/tags/
       icon: icon-price-tag-3-line
   custom:
     title: 文档
