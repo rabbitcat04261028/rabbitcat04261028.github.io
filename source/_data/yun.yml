@@ -88,9 +88,11 @@ menu:
     - type: archives
       path: /archives/
       icon: icon-archive-line
+
     - type: categories
-      path: /categories/
+      path: ../categories/
       icon: icon-folder-2-line
+
     - type: tags
       path: /archives/
       icon: icon-price-tag-3-line
