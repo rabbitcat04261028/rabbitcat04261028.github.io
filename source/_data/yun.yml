@@ -1,9 +1,16 @@
 mode: auto
 
+# 头像
 avatar:
-  url: /images/99liang01.jpg # 头像图片地址
+  enable: true
+  url: /images/99liang01.jpg
   rounded: true
   opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 🐰
+    message: 现原形吧！
 
 colors:
   primary: "#6200ee"
@@ -64,3 +71,10 @@ banner:
   go_down:
     enable: true
     icon: icon-arrow-down-s-line
+
+# Cursor光标 替换鼠标光标，默认关闭。开启时默认使用 Material Design Cursors
+cursor:
+  enable: true
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
