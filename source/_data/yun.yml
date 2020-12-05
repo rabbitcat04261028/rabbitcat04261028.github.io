@@ -92,6 +92,13 @@ menu:
     path: https://yun.yunyoujun.cn
     icon: icon-settings-line
 
+# 页面配置
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: icon-genderless-line
+    color: dodgerblue
+
 # 文章信息显示
 post_meta:
   item_text: false
