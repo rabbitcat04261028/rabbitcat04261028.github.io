@@ -78,3 +78,26 @@ cursor:
   default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
   pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
   text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
+
+# 导航
+menu:
+  home:
+    path: /
+    icon: icon-home-4-line
+  list:
+    - type: archives
+      path: /public/archives/
+      icon: icon-archive-line
+    - type: categories
+      path: /public/categories/
+      icon: icon-folder-2-line
+    - type: tags
+      path: /public/tags/
+      icon: icon-price-tag-3-line
+    # - path: https://www.yunyoujun.cn
+    #   icon: icon-cloud-line
+    #   count: 你猜
+  custom:
+    title: 文档
+    path: https://yun.yunyoujun.cn
+    icon: icon-settings-line
