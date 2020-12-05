@@ -90,15 +90,12 @@ menu:
       icon: icon-archive-line
 
     - type: categories
-      path: ../categories/
+      path: https://www.yunyoujun.cn
       icon: icon-folder-2-line
 
-     - type: archives
-      path: /archives/
-      icon: icon-archive-line
-    # - path: https://www.yunyoujun.cn
-    #   icon: icon-cloud-line
-    #   count: 你猜
+    # - type: tags
+    #   path: /tags/
+    #   icon: icon-price-tag-3-line
   custom:
     title: 文档
     path: https://yun.yunyoujun.cn
