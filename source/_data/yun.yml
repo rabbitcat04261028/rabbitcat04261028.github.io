@@ -88,16 +88,16 @@ menu:
       path: /tags/
       icon: icon-price-tag-3-line
   custom:
-    title: 文档
+    title: 使用文档
     path: https://yun.yunyoujun.cn
     icon: icon-settings-line
 
-# 页面配置
-pages:
-  - name: 我的小伙伴们
-    url: /dys/
-    icon: icon-genderless-line
-    color: dodgerblue
+# # 页面配置
+# pages:
+#   - name: 我的小伙伴们
+#     url: /dys/
+#     icon: icon-genderless-line
+#     color: dodgerblue
 
 # 文章信息显示
 post_meta:
@@ -136,3 +136,8 @@ say:
 wordcloud:
   enable: true
   
+# 字数统计，阅读时长
+wordcount:
+  enable: true
+  count: true
+  time: true
