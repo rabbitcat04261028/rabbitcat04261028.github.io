@@ -90,7 +90,7 @@ menu:
       icon: icon-archive-line
 
     - type: categories
-      path: /categories/
+      path: /archives/
       icon: icon-folder-2-line
 
     # - type: tags
