@@ -90,7 +90,7 @@ menu:
       icon: icon-archive-line
 
     - type: categories
-      path: https://www.yunyoujun.cn
+      path: /categories/
       icon: icon-folder-2-line
 
     # - type: tags
