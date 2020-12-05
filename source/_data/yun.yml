@@ -51,3 +51,16 @@ social:
     link: https://space.bilibili.com/209738817
     icon: icon-bilibili-line
     color: "#FF8EB3"
+
+# 开头标语动画
+banner:
+  enable: true
+  title: 缺一不可
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
