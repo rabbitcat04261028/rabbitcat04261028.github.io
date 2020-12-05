@@ -27,13 +27,6 @@ tags:
   Game: "#5298d1"
   C#: "#026E00"
   Git: "#F14E32"
-  React: "#61dafb"
-  Python: "#3776ab"
-  PHP: "#8892BF"
-  VS Code: "#0066B8"
-  JavaScript: "#F4DF4F"
-  TypeScript: "#317AC6"
-  Laravel: "#F4645F"
 
 # 可以为你的分类指定色彩，默认色 #333。
 categories:
