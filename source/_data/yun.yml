@@ -4,12 +4,12 @@ mode: auto
 avatar:
   enable: true
   url: /images/99liang01.jpg
-  rounded: true
+  rounded: false
   opacity: 1
   mickey_mouse: false
   status:
     enable: true
-    emoji: 🐰
+    # emoji: 🤔
     message: 现原形吧！
 
 colors:
