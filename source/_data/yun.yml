@@ -22,10 +22,10 @@ colors:
 
 #  自定义标签
 tags:
-  Vue: "#4fc08d"
+  Siki: "#4fc08d"
   Hexo: "#0E834D"
-  CSS: "#5298d1"
-  Node.js: "#026E00"
+  Game: "#5298d1"
+  C#: "#026E00"
   Git: "#F14E32"
   React: "#61dafb"
   Python: "#3776ab"
@@ -89,10 +89,10 @@ menu:
       path: /archives/
       icon: icon-archive-line
     - type: categories
-      path: https://github.com/rabbitcat04261028/rabbitcat04261028.github.io/tree/master/categories/
+      path: /categories/
       icon: icon-folder-2-line
     - type: tags
-      path: https://github.com/rabbitcat04261028/rabbitcat04261028.github.io/tree/master/tags/
+      path: /tags/
       icon: icon-price-tag-3-line
   custom:
     title: 文档
