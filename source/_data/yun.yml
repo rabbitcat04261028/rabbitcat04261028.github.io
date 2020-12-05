@@ -86,13 +86,13 @@ menu:
     icon: icon-home-4-line
   list:
     - type: archives
-      path: /blog/public/archives/
+      path: /archives/
       icon: icon-archive-line
     - type: categories
-      path: /blog/public/categories/
+      path: ../public/categories/
       icon: icon-folder-2-line
     - type: tags
-      path: /blog/public/tags/
+      path: ../public/tags/
       icon: icon-price-tag-3-line
     # - path: https://www.yunyoujun.cn
     #   icon: icon-cloud-line
