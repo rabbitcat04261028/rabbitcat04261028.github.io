@@ -7,7 +7,7 @@ tags:
 
 注：本篇博客我用来练习typora语法的博客，不定时更新。
 
-<img src="C:\Users\20284\Pictures\18e49388c6e6454f876704635025d324.jpeg" style="zoom:50%;" />
+![](\images\Q版羡羡.jpeg)
 
 # 
 
