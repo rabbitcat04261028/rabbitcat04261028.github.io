@@ -7,7 +7,7 @@ tags:
 
 注：本篇博客我用来练习typora语法的博客，不定时更新。
 
-![](\images\Q版羡羡.jpeg)
+![羡羡](D:\myself\blog\source\images\Q版羡羡.jpeg)
 
 # 
 
