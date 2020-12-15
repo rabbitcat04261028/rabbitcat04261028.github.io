@@ -7,3 +7,7 @@ tags:
 categories:
  - 学习笔记
 ---
+
+### 服务器端运行原理图：
+
+![image-20201215151627283](MySQL学习笔记（siki）.assets/image-20201215151627283.png)
